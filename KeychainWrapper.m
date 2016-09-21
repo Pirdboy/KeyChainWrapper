@@ -8,7 +8,7 @@
 
 #import "KeychainWrapper.h"
 
-static const NSString *service = @"com.cmbchina.TestCoreData";
+static const NSString *service = @"yourService";
 @interface KeychainWrapper ()
 @property (strong, nonatomic) NSMutableDictionary *kcQuery;
 @end
